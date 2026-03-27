@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "playerName": "Virat Kohli",
+    "country": "India",
+    "playingRole": "Batsman",
+    "ratings": 95,
+    "battingStyle": "Right-hand",
+    "price": 940,
+    "image": "https://i.ibb.co/tPbmhZVT/Virat-Kohli-in-PMO-New-Delhi.jpg"
+  },
+  {
+    "id": 2,
+    "playerName": "Ben Stokes",
+    "country": "England",
+    "playingRole": "All-Rounder",
+    "ratings": 92,
+    "battingStyle": "Left-hand",
+    "price": 550,
+    "image": "https://i.ibb.co/cSVwwC3x/ben-stokes.png"
+  },
+  {
+    "id": 3,
+    "playerName": "Kane Williamson",
+    "country": "New Zealand",
+    "playingRole": "Batsman",
+    "ratings": 91,
+    "battingStyle": "Right-hand",
+    "price": 420,
+    "image": "https://i.ibb.co/qY8gqk7t/kane-williamson.jpg"
+  },
+  {
+    "id": 4,
+    "playerName": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "playingRole": "All-Rounder",
+    "ratings": 88,
+    "battingStyle": "Left-hand",
+    "price": 339,
+    "image": "https://i.ibb.co/xS20YV2G/sakib-al-hasan.jpg"
+  },
+  {
+    "id": 5,
+    "playerName": "Steve Smith",
+    "country": "Australia",
+    "playingRole": "Batsman",
+    "ratings": 93,
+    "battingStyle": "Right-hand",
+    "price": 800,
+    "image": "https://i.ibb.co/mCQPPT2G/steve-smith.png"
+  },
+  {
+    "id": 6,
+    "playerName": "Rashid Khan",
+    "country": "Afghanistan",
+    "playingRole": "Bowler",
+    "ratings": 89,
+    "battingStyle": "Right-hand",
+    "price": 1000,
+    "image": "https://i.ibb.co/3YF8H68y/rashid-khan.png"
+  },
+  {
+    "id": 7,
+    "playerName": "David Warner",
+    "country": "Australia",
+    "playingRole": "Batsman",
+    "ratings": 90,
+    "battingStyle": "Left-hand",
+    "price": 1200,
+    "image": "https://i.ibb.co/SDzDw2MV/david-warner.jpg"
+  },
+  {
+    "id": 8,
+    "playerName": "Hardik Pandya",
+    "country": "India",
+    "playingRole": "All-Rounder",
+    "ratings": 87,
+    "battingStyle": "Right-hand",
+    "price": 870,
+    "image": "https://i.ibb.co/gLk62RCv/hardik.jpg"
+  },
+  {
+    "id": 9,
+    "playerName": "Quinton de Kock",
+    "country": "South Africa",
+    "playingRole": "Batsman",
+    "ratings": 86,
+    "battingStyle": "Left-hand",
+    "price": 639,
+    "image": "https://i.ibb.co/Ngdj5C6L/de-cock.jpg"
+  },
+  {
+    "id": 10,
+    "playerName": "Jos Buttler",
+    "country": "England",
+    "playingRole": "Batsman",
+    "ratings": 88,
+    "battingStyle": "Right-hand",
+    "price": 654,
+    "image": "https://i.ibb.co/WpYwz4h2/buttler.png"
+  },
+  {
+    "id": 11,
+    "playerName": "Glenn Maxwell",
+    "country": "Australia",
+    "playingRole": "All-Rounder",
+    "ratings": 84,
+    "battingStyle": "Right-hand",
+    "price": 729,
+    "image": "https://i.ibb.co/4nmBBdqB/maxwell.jpg"
+  },
+  {
+    "id": 12,
+    "playerName": "Babar Azam",
+    "country": "Pakistan",
+    "playingRole": "Batsman",
+    "ratings": 94,
+    "battingStyle": "Right-hand",
+    "price": 900,
+    "image": "https://i.ibb.co/8LcsDwV0/babar.jpg"
+  }
+]
