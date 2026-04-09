@@ -26,5 +26,13 @@ Easy to extend and manage
 🔹 4. Modern UI Ready
 Ready to integrate with UI libraries (Tailwind, DaisyUI, etc.)
 
+# Run the project Locally
+1.Clone the project 
+2.Open the vs code 
+3.Copy the index.html file and other files
+4.Just tab Go live button in Vs Code
+
+live link : 
+
 
 
