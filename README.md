@@ -25,24 +25,4 @@ Organized folders (src, components, etc.)
 Easy to extend and manage
 🔹 4. Modern UI Ready
 Ready to integrate with UI libraries (Tailwind, DaisyUI, etc.)
-📂 Project Structure
-bpl-dream-project/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── main.jsx
-│   ├── App.jsx
-│   ├── components/
-│   └── assets/
-├── index.html
-├── package.json
-└── vite.config.js
-🛠️ Getting Started
-1️⃣ Clone the repository
-git clone https://github.com/your-username/bpl-dream-project.git
-2️⃣ Install dependencies
-npm install
-3️⃣ Run the development server
-npm run dev
-4️⃣ Open in browser
-http://localhost:5173
+
