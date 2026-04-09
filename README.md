@@ -26,3 +26,5 @@ Easy to extend and manage
 🔹 4. Modern UI Ready
 Ready to integrate with UI libraries (Tailwind, DaisyUI, etc.)
 
+
+
